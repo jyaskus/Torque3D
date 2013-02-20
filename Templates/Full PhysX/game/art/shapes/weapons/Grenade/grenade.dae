@@ -13,12 +13,8 @@
                 Sample Animation: No;
                 Sample Animation Start: 0;
                 Sample Animation End: 120;
-                Save modo Profile: Yes;
-                Save Maya Profile: Yes;
-                Save 3ds Max Profile: Yes;
                 Formatted Arrays: Yes;
             </comments>
-            <source_data>file:///Q:/chinaTown/Scenes/Weapons/Grenade/grenade2_hires.lxo</source_data>
         </contributor>
         <created>2009-11-03T11:28:10Z</created>
         <modified>2009-11-03T11:28:10Z</modified>
@@ -3467,16 +3463,12 @@
     </library_geometries>
     <library_images>
         <image id="Image0001" name="Image0001">
-            <init_from>file:///C:/Program%20Files/Luxology/modo/content/Assets/Images/HDR%20Images/LightBox%20Studio%20HDR.exr</init_from>
         </image>
         <image id="Image0002" name="Image0002">
-            <init_from>file:///Q:/chinaTown/Pictures/Weapons/Grenade/Grenade2_Diff.tga</init_from>
         </image>
         <image id="Image0003" name="Image0003">
-            <init_from>file:///Q:/chinaTown/Pictures/Weapons/Grenade/Grenade2_Spec.tga</init_from>
         </image>
         <image id="Image0004" name="Image0004">
-            <init_from>file:///Q:/chinaTown/Pictures/Weapons/Grenade/Grenade2_normal.tga</init_from>
         </image>
     </library_images>
     <library_lights>

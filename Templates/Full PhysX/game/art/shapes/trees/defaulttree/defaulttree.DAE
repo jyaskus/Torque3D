@@ -4,7 +4,6 @@
     <contributor>
       <author>Russell Fincher</author>
       <authoring_tool>COLLADAMax NextGen;  Version: 1.2.3;  Platform: Win32;  Configuration: Release Max2009</authoring_tool>
-      <source_data>file:///C:/Documents%20and%20Settings/Russell%20Fincher/Desktop/default_torque_tree_13.max</source_data>
     </contributor>
     <created>2009-11-16T16:08:27</created>
     <modified>2009-11-16T16:08:27</modified>
@@ -543,13 +542,10 @@
   </library_lights>
   <library_images>
     <image id="canopytree_bark_diffuse_dds">
-      <init_from>file:///C:/Projects/Pacific/game/art/shapes/vegetation/canopy_test/canopytree_bark_diffuse.dds</init_from>
     </image>
     <image id="canopytree_diffuse_transparency_dds">
-      <init_from>file:///C:/Projects/Pacific/game/art/shapes/vegetation/canopy_test/canopytree_diffuse_transparency.dds</init_from>
     </image>
     <image id="canopytree_frond_diffuse_transparency_dds">
-      <init_from>file:///C:/Projects/Pacific/game/art/shapes/vegetation/canopy_test/canopytree_frond_diffuse_transparency.dds</init_from>
     </image>
   </library_images>
   <library_visual_scenes>
@@ -579,7 +575,7 @@
         <node id="node-bb__autobillboard25" name="bb__autobillboard25">
           <extra>
             <technique profile="OpenCOLLADA">
-              <user_properties>BB::DIM=256BB::DL=1
+              <user_properties>BB::DIM=256BB::DL=1
 BB::EQUATOR_STEPS=4 
 BB::POLAR_STEPS=0
 BB::INCLUDE_POLES=0
